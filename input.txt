@@ -1,1 +1,2 @@
-Welcome to C programming.
+10 4
+4.0 2.0

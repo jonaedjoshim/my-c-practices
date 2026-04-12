@@ -1,2 +1,2 @@
-Hello, World!
-Welcome to C programming.
+14 6
+6.0 2.0
